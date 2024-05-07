@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerTiga", "PointerTiga\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer4", "Pointer4\Pointer4.vcxproj", "{77197D6F-626D-4C08-B089-9264561C4A20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerKelima", "PointerKelima\PointerKelima.vcxproj", "{BB2000B1-BE97-4524-9AB5-E7282483BB8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{77197D6F-626D-4C08-B089-9264561C4A20}.Release|x64.Build.0 = Release|x64
 		{77197D6F-626D-4C08-B089-9264561C4A20}.Release|x86.ActiveCfg = Release|Win32
 		{77197D6F-626D-4C08-B089-9264561C4A20}.Release|x86.Build.0 = Release|Win32
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Debug|x64.ActiveCfg = Debug|x64
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Debug|x64.Build.0 = Debug|x64
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Debug|x86.Build.0 = Debug|Win32
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Release|x64.ActiveCfg = Release|x64
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Release|x64.Build.0 = Release|x64
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Release|x86.ActiveCfg = Release|Win32
+		{BB2000B1-BE97-4524-9AB5-E7282483BB8C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
